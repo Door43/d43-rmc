@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rmc:home|Door43 (rmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rmc|d43-rmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rmc/archive/master.zip|d43-rmc.zip]]
+
+**Recent Changes**
+{{changes>ns = rmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rmc|Ethnologue data]]
+
